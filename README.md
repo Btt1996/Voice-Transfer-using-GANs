@@ -28,7 +28,7 @@ The repository contains the following files:
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/yourusername/voice-transfer-gans`
+1. Clone the repository: `git clone https://github.com/btt1996/voice-transfer-gans`
 2. Create a virtual environment and activate it: `python -m venv env` and `source env/bin/activate` on Linux and macOS or `env\Scripts\activate.bat` on Windows
 3. Install the dependencies: `pip install -r requirements.txt`
 4. Run the main function : `python main.py`
